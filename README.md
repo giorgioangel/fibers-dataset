@@ -1,3 +1,5 @@
+## This repository has been moved to https://github.com/ScrollPrize/villa/tree/main/foundation/datasets/fibers-dataset
+
 # Fibers Dataset
 
 This project generates a fibers dataset from skeletons for volumetric annotation of Herculaneum papyri.
